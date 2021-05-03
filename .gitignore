@@ -8,3 +8,4 @@ target
 /RUNNING_PID
 pyget/__pycache__
 .env
+env
